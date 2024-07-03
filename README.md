@@ -20,19 +20,20 @@ This is my submission for the Portfolio Website Hackathon. The website is a one-
 
 * Here are steps to do this 
 
-1. Open a terminal
-2. Create a new directory for the project if you haven't already
+1. **Open a terminal**
+
+2. **Create a new directory for the project if you haven't already**
 
 ```sh
 mkdir my-website
 cd my-website
 ```
-3. Fork the Repository
+3. **Fork the Repository**
 
 - Go to the repository provided for the hackathon.
 - Click on the "Fork" button in the top right corner to create a copy of the repository under your GitHub account.
 
-4.  Clone the Forked Repository
+4.  **Clone the Forked Repository**
 
 - Clone the forked repository to your local machine
 
@@ -41,7 +42,7 @@ git clone <your-forked-repo-url>
 cd <repo-name>
 ```
 
-5. Start the HTTP server.
+5. **Start the HTTP server**
 
 - For Python 3:
 
@@ -54,6 +55,6 @@ python3 -m http.server 8000
 ```sh
 python -m SimpleHTTPServer 8000
 ```
-6. Open your web browser and go to **http://localhost:8000**
+6. **Open your web browser** and go to **http://localhost:8000**
 
 Thank you for reviewing my submission!
